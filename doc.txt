@@ -4,4 +4,4 @@ Line 2
 
 Line 3
 
-Line 5 added from main branch and Line 4 deleted from the main branch
+Line 4 has been updated to carry the message that I can now understand it.
